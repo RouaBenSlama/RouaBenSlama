@@ -1,7 +1,7 @@
 - 🌸 Hi, I’m @RouaBenSlama
 - 🍜 I like kpop
 - 🍡 I’m currently learning coding
-- 🎐 Pronouns: ahe/her
+- 🎐 Pronouns: she/her
 - 🧋 Fun fact: My favorite coding langage is JavaScript
 
 <!---
