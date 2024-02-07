@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @RouaBenSlama
-- 👀 I like kpop
-- 🌱 I’m currently learning coding
-- 😄 Pronouns: ahe/her
-- ⚡ Fun fact: My favorite coding langage is JavaScript
+- 🌸 Hi, I’m @RouaBenSlama
+- 🍜 I like kpop
+- 🍡 I’m currently learning coding
+- 🎐 Pronouns: ahe/her
+- 🧋 Fun fact: My favorite coding langage is JavaScript
 
 <!---
 RouaBenSlama/RouaBenSlama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
